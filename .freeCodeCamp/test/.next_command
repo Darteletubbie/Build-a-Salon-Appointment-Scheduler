@@ -137,3 +137,11 @@ git branch -M main
 git push -u origin main
 git add
 git add .
+echo "# Build-a-Salon-Appointment-Scheduler" >> README.md
+git config user.name
+git branch
+echo "# Build-a-Salon-Appointment-Scheduler" >> README.md
+git remote add origin git@github.com:Darteletubbie/Build-a-Salon-Appointment-Scheduler.git
+git init
+git remote add origin https://github.com/Darteletubbie/Build-a-Salon-Appointment-Scheduler.git
+git commit -m "Initial commit of Salon Appointment Scheduler"
